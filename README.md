@@ -1,6 +1,8 @@
 # custom_shell
 Moti Patli Shell
+
 Description
+
 Moti Patli Shell is a custom terminal shell designed to provide basic file and system operations in a user-friendly manner. It includes commands for creating, deleting, and managing files, as well as utilities for directory and system interactions. This shell is built using Bash and Python, with additional functionalities powered by a shared library (code.so).
 
 Features
